@@ -9,3 +9,4 @@ NOW ADD ANOTHER TEXT
 Me too  i ned to add  something
 
  test  real merging
+ test
